@@ -1,0 +1,4 @@
+from controller.userController import Controller as UserController
+from controller.audioController import Controller as AudioController
+from controller.authController import Controller as AuthController
+from controller.chatBotController import Controller as ChatBotController
