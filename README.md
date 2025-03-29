@@ -74,7 +74,7 @@ DB_USER_ENDPOINT=/users
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Financial-Advisor-Bot.git
+   git clone https://github.com/CarlosYazid/Financial-Advisor-Bot.git
    cd Financial-Advisor-Bot
    ```
 
@@ -342,7 +342,7 @@ We welcome contributions! Please follow these guidelines:
 
 ## 12. Changelog
 
-### [1.0.0] - 2024-06-01
+### [1.0.0] - 2025-03-29
 **Initial Release**
 - Core financial advisory functionality
 - User authentication system
@@ -359,4 +359,4 @@ For questions or support, please contact:
 
 - **Project Maintainer**: Carlos Yazid
 - **Email**: contact@carlospadilla.co
-- **GitHub Issues**: [https://github.com/CarlosYazid/Financial-Advisor-Bot/issues](https://github.com/CarlosYazid/Financial-Advisor-Bot/issues)
+- **GitHub Issues**: [Issues](https://github.com/CarlosYazid/Financial-Advisor-Bot/issues)
